@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UcSearch</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="sub_activity_main">Java programmers in Lagos</string>
+    <string name="wait_activity_main">Developers List Loading.\nPlease wait as this might take some minutes...</string>
+    <string name="link_activity_profile">click to see this developer\'s full profile on GitHub.</string>
+</resources>
